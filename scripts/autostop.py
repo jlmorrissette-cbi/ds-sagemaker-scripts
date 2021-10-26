@@ -10,6 +10,7 @@
 #     on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
 #     express or implied. See the License for the specific language governing
 #     permissions and limitations under the License.
+#source: https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples/blob/3ddb1dcf0c58a0c7e176f27827dbe3bf7f22c22f/scripts/auto-stop-idle/autostop.py
 
 import requests
 from datetime import datetime
